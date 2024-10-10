@@ -1,15 +1,15 @@
 ###
 
-## Education
+### Education
 
 
 Full course list: https://github.com/vvk130/university-course-list/tree/main
 
-## Language skills
+### Language skills
 
 
-## Briefly about my job experience
+### Briefly about my job experience
 
-## Projects
+### Projects
 
-## Tecnhologies
+### Tecnhologies
