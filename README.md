@@ -12,7 +12,8 @@ I can communicate professionally in English and Swedish. Finnish is my native la
 I have made a video where I talk my project in Swedish: #TOADD
 
 ### Projects
+Asp.net web api: [https://github.com/vvk130/TripNetReactBackend](https://github.com/vvk130/TripNetReactBackend)
+React Typescript Frontend: [https://github.com/vvk130/trip-fe](https://github.com/vvk130/trip-fe)
 
-
-### Tecnhologies
+### Techologies
 
