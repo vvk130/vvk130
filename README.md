@@ -9,7 +9,7 @@ My Master's degree course list: https://github.com/vvk130/university-course-list
 ### Language skills
 - Finnish (native)
 - English (professional fluency)
-- Swedish (professional fluency, video)
+- Swedish (professional fluency, [video demo](https://github.com/vvk130/swedish/blob/main/README.md))
 
 ### Fullstack Project
 Info about the project in the backend repo
