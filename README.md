@@ -12,6 +12,7 @@ My Master's degree course list: https://github.com/vvk130/university-course-list
 - Swedish (professional fluency, video)
 
 ### Fullstack Project
+Info about the project in the backend repo
 - Asp.net web api: [https://github.com/vvk130/TripNetReactBackend](https://github.com/vvk130/TripNetReactBackend)
 - React Typescript Frontend: [https://github.com/vvk130/trip-fe](https://github.com/vvk130/trip-fe)
 
