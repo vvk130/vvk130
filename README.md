@@ -9,5 +9,5 @@ My Master's degree course list: https://github.com/vvk130/university-course-list
 ### Language skills
 - Finnish (native)
 - English (fluent)
-- Swedish (fluent)
+- Swedish (Valtionhallinnon kielitutkinto, erinomaiset taidot // Public administration language examination, excellent proficiency)
 
